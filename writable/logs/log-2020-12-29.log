@@ -1,0 +1,86 @@
+CRITICAL - 2020-12-29 12:32:36 --> Invalid file: user/billinghistory/index/index.php
+#0 E:\xampp\htdocs\insta-bot-awebon\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('user/billinghis...')
+#1 E:\xampp\htdocs\insta-bot-awebon\system\Common.php(1071): CodeIgniter\View\View->render('user/billinghis...', Array, true)
+#2 E:\xampp\htdocs\insta-bot-awebon\app\Controllers\User\UserController.php(18): view('user/billinghis...', Array)
+#3 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(450): App\Controllers\User\UserController->__destruct()
+#4 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-29 12:37:41 --> Call to a member function select() on null
+#0 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(910): App\Controllers\User\Billinghistory->index()
+#1 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\Billinghistory))
+#2 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-29 12:39:33 --> Call to a member function table() on null
+#0 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(910): App\Controllers\User\Billinghistory->index()
+#1 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\Billinghistory))
+#2 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-29 12:40:14 --> Call to a member function table() on null
+#0 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(910): App\Controllers\User\Billinghistory->index()
+#1 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\Billinghistory))
+#2 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-29 12:40:52 --> Call to a member function table() on null
+#0 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(910): App\Controllers\User\Billinghistory->index()
+#1 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\Billinghistory))
+#2 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-29 12:42:15 --> Call to a member function table() on null
+#0 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(910): App\Controllers\User\Billinghistory->index()
+#1 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\Billinghistory))
+#2 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-29 12:42:54 --> Call to a member function table() on null
+#0 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(910): App\Controllers\User\Billinghistory->index()
+#1 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\Billinghistory))
+#2 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-29 12:43:12 --> Call to a member function table() on null
+#0 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(910): App\Controllers\User\Billinghistory->index()
+#1 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\Billinghistory))
+#2 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-29 12:43:29 --> Call to undefined method App\Controllers\User\Billinghistory::select()
+#0 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(910): App\Controllers\User\Billinghistory->index()
+#1 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\Billinghistory))
+#2 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-29 12:43:57 --> Call to a member function table() on null
+#0 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(910): App\Controllers\User\Billinghistory->index()
+#1 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\Billinghistory))
+#2 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-29 12:48:17 --> Call to a member function table() on null
+#0 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(910): App\Controllers\User\Billinghistory->index()
+#1 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\Billinghistory))
+#2 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-29 12:49:33 --> Call to a member function table() on null
+#0 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(910): App\Controllers\User\Billinghistory->index()
+#1 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\Billinghistory))
+#2 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-29 12:49:44 --> Call to undefined method App\Controllers\User\Billinghistory::select()
+#0 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(910): App\Controllers\User\Billinghistory->index()
+#1 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\Billinghistory))
+#2 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-29 12:50:11 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::getResult()
+#0 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(910): App\Controllers\User\Billinghistory->index()
+#1 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\Billinghistory))
+#2 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}

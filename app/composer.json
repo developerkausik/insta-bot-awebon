@@ -1,0 +1,12 @@
+{
+    "name": "karthikeyan/app",
+    "authors": [
+        {
+            "name": "Karthikeyan",
+            "email": "karthikeyan@daceg.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}

@@ -1,0 +1,279 @@
+CRITICAL - 2020-12-30 00:26:12 --> Invalid argument supplied for foreach()
+#0 E:\xampp\htdocs\insta-bot-awebon\app\Views\user\changepassword\index\index.php(339): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'E:\\xampp\\htdocs...', 339, Array)
+#1 E:\xampp\htdocs\insta-bot-awebon\system\View\View.php(236): include('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\insta-bot-awebon\system\Common.php(1071): CodeIgniter\View\View->render('user/changepass...', Array, true)
+#3 E:\xampp\htdocs\insta-bot-awebon\app\Controllers\User\UserController.php(18): view('user/changepass...', Array)
+#4 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(450): App\Controllers\User\UserController->__destruct()
+#5 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-30 00:26:46 --> Invalid argument supplied for foreach()
+#0 E:\xampp\htdocs\insta-bot-awebon\app\Views\user\changepassword\index\index.php(339): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'E:\\xampp\\htdocs...', 339, Array)
+#1 E:\xampp\htdocs\insta-bot-awebon\system\View\View.php(236): include('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\insta-bot-awebon\system\Common.php(1071): CodeIgniter\View\View->render('user/changepass...', Array, true)
+#3 E:\xampp\htdocs\insta-bot-awebon\app\Controllers\User\UserController.php(18): view('user/changepass...', Array)
+#4 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(450): App\Controllers\User\UserController->__destruct()
+#5 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-30 00:26:47 --> Invalid argument supplied for foreach()
+#0 E:\xampp\htdocs\insta-bot-awebon\app\Views\user\changepassword\index\index.php(339): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'E:\\xampp\\htdocs...', 339, Array)
+#1 E:\xampp\htdocs\insta-bot-awebon\system\View\View.php(236): include('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\insta-bot-awebon\system\Common.php(1071): CodeIgniter\View\View->render('user/changepass...', Array, true)
+#3 E:\xampp\htdocs\insta-bot-awebon\app\Controllers\User\UserController.php(18): view('user/changepass...', Array)
+#4 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(450): App\Controllers\User\UserController->__destruct()
+#5 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-30 00:26:47 --> Invalid argument supplied for foreach()
+#0 E:\xampp\htdocs\insta-bot-awebon\app\Views\user\changepassword\index\index.php(339): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'E:\\xampp\\htdocs...', 339, Array)
+#1 E:\xampp\htdocs\insta-bot-awebon\system\View\View.php(236): include('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\insta-bot-awebon\system\Common.php(1071): CodeIgniter\View\View->render('user/changepass...', Array, true)
+#3 E:\xampp\htdocs\insta-bot-awebon\app\Controllers\User\UserController.php(18): view('user/changepass...', Array)
+#4 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(450): App\Controllers\User\UserController->__destruct()
+#5 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-30 00:26:48 --> Invalid argument supplied for foreach()
+#0 E:\xampp\htdocs\insta-bot-awebon\app\Views\user\changepassword\index\index.php(339): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'E:\\xampp\\htdocs...', 339, Array)
+#1 E:\xampp\htdocs\insta-bot-awebon\system\View\View.php(236): include('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\insta-bot-awebon\system\Common.php(1071): CodeIgniter\View\View->render('user/changepass...', Array, true)
+#3 E:\xampp\htdocs\insta-bot-awebon\app\Controllers\User\UserController.php(18): view('user/changepass...', Array)
+#4 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(450): App\Controllers\User\UserController->__destruct()
+#5 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-30 00:26:48 --> Invalid argument supplied for foreach()
+#0 E:\xampp\htdocs\insta-bot-awebon\app\Views\user\changepassword\index\index.php(339): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'E:\\xampp\\htdocs...', 339, Array)
+#1 E:\xampp\htdocs\insta-bot-awebon\system\View\View.php(236): include('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\insta-bot-awebon\system\Common.php(1071): CodeIgniter\View\View->render('user/changepass...', Array, true)
+#3 E:\xampp\htdocs\insta-bot-awebon\app\Controllers\User\UserController.php(18): view('user/changepass...', Array)
+#4 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(450): App\Controllers\User\UserController->__destruct()
+#5 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-30 00:26:48 --> Invalid argument supplied for foreach()
+#0 E:\xampp\htdocs\insta-bot-awebon\app\Views\user\changepassword\index\index.php(339): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'E:\\xampp\\htdocs...', 339, Array)
+#1 E:\xampp\htdocs\insta-bot-awebon\system\View\View.php(236): include('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\insta-bot-awebon\system\Common.php(1071): CodeIgniter\View\View->render('user/changepass...', Array, true)
+#3 E:\xampp\htdocs\insta-bot-awebon\app\Controllers\User\UserController.php(18): view('user/changepass...', Array)
+#4 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(450): App\Controllers\User\UserController->__destruct()
+#5 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-30 00:26:49 --> Invalid argument supplied for foreach()
+#0 E:\xampp\htdocs\insta-bot-awebon\app\Views\user\changepassword\index\index.php(339): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'E:\\xampp\\htdocs...', 339, Array)
+#1 E:\xampp\htdocs\insta-bot-awebon\system\View\View.php(236): include('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\insta-bot-awebon\system\Common.php(1071): CodeIgniter\View\View->render('user/changepass...', Array, true)
+#3 E:\xampp\htdocs\insta-bot-awebon\app\Controllers\User\UserController.php(18): view('user/changepass...', Array)
+#4 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(450): App\Controllers\User\UserController->__destruct()
+#5 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-30 00:28:08 --> Invalid argument supplied for foreach()
+#0 E:\xampp\htdocs\insta-bot-awebon\app\Views\user\changepassword\index\index.php(339): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'E:\\xampp\\htdocs...', 339, Array)
+#1 E:\xampp\htdocs\insta-bot-awebon\system\View\View.php(236): include('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\insta-bot-awebon\system\Common.php(1071): CodeIgniter\View\View->render('user/changepass...', Array, true)
+#3 E:\xampp\htdocs\insta-bot-awebon\app\Controllers\User\UserController.php(18): view('user/changepass...', Array)
+#4 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(450): App\Controllers\User\UserController->__destruct()
+#5 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-30 01:13:08 --> Cannot use object of type App\Entities\Users as array
+#0 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(910): App\Controllers\Rest\User\Profile\Profile->changepassword()
+#1 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rest\User\Profile\Profile))
+#2 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-30 01:34:48 --> Call to a member function update() on null
+#0 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(910): App\Controllers\Rest\User\Profile\Profile->changepassword()
+#1 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rest\User\Profile\Profile))
+#2 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-30 01:35:12 --> Call to a member function update() on null
+#0 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(910): App\Controllers\Rest\User\Profile\Profile->changepassword()
+#1 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rest\User\Profile\Profile))
+#2 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-30 01:36:01 --> Call to a member function update() on null
+#0 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(910): App\Controllers\Rest\User\Profile\Profile->changepassword()
+#1 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rest\User\Profile\Profile))
+#2 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-30 01:37:01 --> Call to a member function update() on null
+#0 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(910): App\Controllers\Rest\User\Profile\Profile->changepassword()
+#1 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rest\User\Profile\Profile))
+#2 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-30 01:38:06 --> Call to a member function update() on null
+#0 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(910): App\Controllers\Rest\User\Profile\Profile->changepassword()
+#1 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rest\User\Profile\Profile))
+#2 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-30 01:46:44 --> Call to a member function update() on null
+#0 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(910): App\Controllers\Rest\User\Profile\Profile->changepassword()
+#1 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rest\User\Profile\Profile))
+#2 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-30 01:50:45 --> Call to a member function find() on null
+#0 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(910): App\Controllers\Rest\User\Profile\Profile->changepassword()
+#1 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rest\User\Profile\Profile))
+#2 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-30 01:51:57 --> Call to a member function find() on null
+#0 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(910): App\Controllers\Rest\User\Profile\Profile->changepassword()
+#1 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rest\User\Profile\Profile))
+#2 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-30 01:52:03 --> Call to a member function find() on null
+#0 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(910): App\Controllers\Rest\User\Profile\Profile->changepassword()
+#1 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rest\User\Profile\Profile))
+#2 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-30 01:54:09 --> Call to a member function update() on null
+#0 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(910): App\Controllers\Rest\User\Profile\Profile->changepassword()
+#1 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rest\User\Profile\Profile))
+#2 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-30 01:55:26 --> Call to a member function update() on null
+#0 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(910): App\Controllers\Rest\User\Profile\Profile->changepassword()
+#1 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rest\User\Profile\Profile))
+#2 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-30 01:56:39 --> Call to a member function find() on null
+#0 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(910): App\Controllers\Rest\User\Profile\Profile->changepassword()
+#1 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rest\User\Profile\Profile))
+#2 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-30 01:58:17 --> Call to a member function errors() on null
+#0 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(910): App\Controllers\Rest\User\Profile\Profile->changepassword()
+#1 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rest\User\Profile\Profile))
+#2 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-30 06:15:31 --> Call to a member function get() on null
+#0 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(910): App\Controllers\User\Changeemail->index()
+#1 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\Changeemail))
+#2 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-30 06:23:09 --> syntax error, unexpected '}'
+#0 E:\xampp\htdocs\insta-bot-awebon\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('user/changeemai...')
+#1 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('user/changeemai...')
+#2 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-30 06:23:12 --> syntax error, unexpected '}'
+#0 E:\xampp\htdocs\insta-bot-awebon\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('user/changeemai...')
+#1 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('user/changeemai...')
+#2 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-30 06:23:16 --> syntax error, unexpected '}'
+#0 E:\xampp\htdocs\insta-bot-awebon\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('user/changeemai...')
+#1 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('user/changeemai...')
+#2 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-30 06:25:47 --> Call to a member function setFlashdata() on null
+#0 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(910): App\Controllers\User\Changeemail->confirmemail('dasdasd')
+#1 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\Changeemail))
+#2 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-30 06:25:49 --> Call to a member function setFlashdata() on null
+#0 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(910): App\Controllers\User\Changeemail->confirmemail('dasdasd')
+#1 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\Changeemail))
+#2 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-30 06:26:19 --> 
+#0 E:\xampp\htdocs\insta-bot-awebon\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\xampp\htdocs\insta-bot-awebon\system\Common.php(798): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\xampp\htdocs\insta-bot-awebon\app\Controllers\User\Changeemail.php(35): redirect('user/changeemai...')
+#3 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(910): App\Controllers\User\Changeemail->confirmemail('dasdasd')
+#4 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\Changeemail))
+#5 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-30 06:26:42 --> 
+#0 E:\xampp\htdocs\insta-bot-awebon\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\xampp\htdocs\insta-bot-awebon\system\Common.php(798): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\xampp\htdocs\insta-bot-awebon\app\Controllers\User\Changeemail.php(35): redirect('user/changeemai...')
+#3 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(910): App\Controllers\User\Changeemail->confirmemail('dasdasd')
+#4 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\Changeemail))
+#5 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-30 06:26:55 --> 
+#0 E:\xampp\htdocs\insta-bot-awebon\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\xampp\htdocs\insta-bot-awebon\system\Common.php(798): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\xampp\htdocs\insta-bot-awebon\app\Controllers\User\Changeemail.php(35): redirect('user/changeemai...')
+#3 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(910): App\Controllers\User\Changeemail->confirmemail('dasdasd')
+#4 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\Changeemail))
+#5 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-30 06:27:38 --> 
+#0 E:\xampp\htdocs\insta-bot-awebon\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\xampp\htdocs\insta-bot-awebon\app\Controllers\User\Changeemail.php(35): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(910): App\Controllers\User\Changeemail->confirmemail('dasdasd')
+#3 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\Changeemail))
+#4 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-30 06:27:39 --> 
+#0 E:\xampp\htdocs\insta-bot-awebon\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\xampp\htdocs\insta-bot-awebon\app\Controllers\User\Changeemail.php(35): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(910): App\Controllers\User\Changeemail->confirmemail('dasdasd')
+#3 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\Changeemail))
+#4 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-30 06:27:39 --> 
+#0 E:\xampp\htdocs\insta-bot-awebon\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\xampp\htdocs\insta-bot-awebon\app\Controllers\User\Changeemail.php(35): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(910): App\Controllers\User\Changeemail->confirmemail('dasdasd')
+#3 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\Changeemail))
+#4 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-30 06:27:39 --> 
+#0 E:\xampp\htdocs\insta-bot-awebon\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\xampp\htdocs\insta-bot-awebon\app\Controllers\User\Changeemail.php(35): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(910): App\Controllers\User\Changeemail->confirmemail('dasdasd')
+#3 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\Changeemail))
+#4 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-30 06:27:39 --> 
+#0 E:\xampp\htdocs\insta-bot-awebon\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\xampp\htdocs\insta-bot-awebon\app\Controllers\User\Changeemail.php(35): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(910): App\Controllers\User\Changeemail->confirmemail('dasdasd')
+#3 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\Changeemail))
+#4 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-30 06:28:53 --> 
+#0 E:\xampp\htdocs\insta-bot-awebon\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\xampp\htdocs\insta-bot-awebon\app\Controllers\User\Changeemail.php(35): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(910): App\Controllers\User\Changeemail->confirmemail('dasdasd')
+#3 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\Changeemail))
+#4 E:\xampp\htdocs\insta-bot-awebon\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\xampp\htdocs\insta-bot-awebon\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
